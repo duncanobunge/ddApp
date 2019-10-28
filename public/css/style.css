@@ -1,0 +1,9 @@
+#footer{
+    margin-top: 30px;
+    padding: 10px;
+    color: white;
+    background-color: blue;
+}
+#footer p{
+    margin-bottom: 0px;
+}
